@@ -1,7 +1,7 @@
 # Lsat-Swipe 
 Short, game-like LSAT practice on your phone. Scroll through LSAT questions instead of social media.
 
-Try it: https://torrenechan-ai.github.io/REPO-NAME/
+Try it: https://torrenechan-ai.github.io/Lsat-Swipe/
 
 LSAT Swipe is a free, installable web app (PWA) built around a vertical swipe feed: one question per card, 2–5 minute sessions, and a review system that brings back the questions you miss.
 
